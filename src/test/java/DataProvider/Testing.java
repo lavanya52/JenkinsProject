@@ -15,6 +15,7 @@ public class Testing {
 		driver.manage().window().maximize();
 		System.out.println("hellowworld");
 		
+		System.out.println("hellowworld");
 	}
 
 }
